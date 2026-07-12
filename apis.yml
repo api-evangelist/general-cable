@@ -10,6 +10,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/general-cable-domain-security.yml
   - type: Website
     url: https://www.generalcable.com
   - type: Parent Company
