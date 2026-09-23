@@ -1,7 +1,9 @@
 ---
 title: KY-GEN-CABLE/PRYSMIAN | Business Wire - Via Ritzau
 url: https://via.ritzau.dk/pressemeddelelse/12998858/ky-gen-cableprysmian?publisherId=90456
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"General Cable" press release artificial intelligence'
 position: 1
 source: serpapi-google

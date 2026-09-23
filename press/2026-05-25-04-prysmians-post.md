@@ -1,7 +1,9 @@
 ---
 title: Prysmian's Post
 url: https://www.linkedin.com/posts/prysmian_prysmian-group-is-proud-to-announce-the-formal-activity-6879075627777957889-6u-b
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"General Cable" press release artificial intelligence'
 position: 4
 source: serpapi-google

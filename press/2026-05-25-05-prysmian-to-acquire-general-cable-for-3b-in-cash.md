@@ -1,7 +1,9 @@
 ---
 title: Prysmian to acquire General Cable for $3B in cash
 url: https://www.fibre-systems.com/news/prysmian-acquire-general-cable-3b-cash
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"General Cable" press release artificial intelligence'
 position: 5
 source: serpapi-google
